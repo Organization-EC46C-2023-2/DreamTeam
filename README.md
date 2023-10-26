@@ -1,7 +1,7 @@
 
 # Equipe DreamTeam
 
-Repositório para o app da disciplina de Desenvolvimento Ágil
+Repositório para o projeto da disciplina de Desenvolvimento Ágil
 
 
 ## Integrantes
