@@ -13,7 +13,7 @@
 |  RF006  | O aluno deve ser capaz de saber o seu progresso em cada área das atividades complementares                         | Alta       |                         |
 |  RF007  | O aluno deve ser capaz de gerar o relatório final com todas as suas atividades exercidas                           | Alta       |                         |
 |  RF008  | O aluno deve ser capaz de consultar um tutorial sobre as atividades                                                | Média      |                         |
-|  RF009  | O aluno pode ver quais são as atividades disponíveis para eles participarem                                       | Média      |                         |
+|  RF009  | Os alunos podem ver quais são as atividades disponíveis para eles participarem                                     | Média      |                         |
 |  RF010  | As entidades devem ser capazes de criar uma conta                                                                  | Média      |                         |
 |  RF011  | As entidades devem ser capazes de ver e editar os dados da sua conta                                               | Média      |         RF010           |
 |  RF012  | As entidades devem ser capazes de deletar sua conta                                                                | Média      |         RF010           |
