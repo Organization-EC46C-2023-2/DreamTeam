@@ -6,7 +6,3 @@
 | :--: | :-----------------------------------------------------------------------: |:----------------------:       | :--------: | :---------------------: |
 | RNF01 |  O sistema deve ser implementado na linguagem flutter.                   | Organizacionais/Implementação |    Baixa   |                         |
 | RNF02 |  O usuário deve efetuar o login em menos três segundos.                  | Produto/Usabilidade           |    Média   |          RF001          |
-
-<div style="text-align: center">
-<p>Tabela 2: Requisitos Não Funcionais</p>
-</div>
