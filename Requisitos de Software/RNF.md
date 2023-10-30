@@ -1,6 +1,6 @@
 # 1. Requisitos Não Funcionais
 
-<p align="justify">A <i>Tabela 2</i> a seguir contém os <b>Requisitos Não Funcionais (RNF)</b> elicitados utizando a técnica de Brainstorm .</p>
+<p align="justify">A <i>Tabela 2</i> a seguir contém os Requisitos Não Funcionais (RNF)</p>
 
 | ID   |                                 Requisito NF                              |     Categoria/Tipo            | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:----------------------:       | :--------: | :---------------------: |
