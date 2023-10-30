@@ -1,6 +1,6 @@
 # 1. Requisitos Não Funcionais
 
-<p align="justify-center">Tabela Requisitos Não Funcionais (RNF)</p>
+<p align="center">Tabela com os Requisitos Não Funcionais (RNF)</p>
 
 | ID   |                                 Requisito NF                              |     Categoria/Tipo            | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:----------------------:       | :--------: | :---------------------: |
